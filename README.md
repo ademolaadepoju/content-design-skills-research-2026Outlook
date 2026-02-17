@@ -4,9 +4,7 @@
 
 ## What is this?
 
-This is an open, reproducible research project analyzing the skills companies are hiring for in content design roles across the US and Europe. Instead of just summarizing what we found, we're publishing the raw data—every job posting—and the code that analyzed it.
-
-You can verify every claim in the article by running the analysis yourself.
+This is an open, reproducible research project analyzing the skills companies are hiring for in content design roles across the US, the UK, and the EMEA. Instead of just summarizing what was found, I am publishing the raw data—every job posting—and the code that analyzed it.
 
 ## Repository structure
 

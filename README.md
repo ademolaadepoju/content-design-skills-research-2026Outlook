@@ -111,4 +111,12 @@ The analysis code is MIT licensed. The job posting data is sourced from publicly
 
 This research accompanies the article: *"What 100 Job Postings Reveal About the Skills Companies Want From Content Designers in 2026."*
 
-Built by [Your Name]. Questions or feedback? Open an issue or reach out at [your contact].
+## About Project Owner
+
+**Author:** Ademola Adepoju
+
+**Role:** Senior Content Designer (UX, Systems Design, AI Explainability) 
+
+**Contact:**
+- [LinkedIn](https://www.linkedin.com/in/adepoju-ademola/)
+- [Email](enochwrites@gmail.com)

@@ -2,6 +2,8 @@
 
 **What 100 Job Postings Reveal About the Skills Companies Want From Content Designers in 2026**
 
+Read the full article [here][https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from]
+
 ## What is this?
 
 This is an open, reproducible research project analyzing the skills companies are hiring for in content design roles across the US, the UK, and the EMEA. Instead of just summarizing what was found, I am publishing the raw data—every job posting—and the code that analyzed it.

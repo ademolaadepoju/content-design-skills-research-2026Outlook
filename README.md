@@ -2,7 +2,7 @@
 
 **What 100 Job Postings Reveal About the Skills Companies Want From Content Designers in 2026**
 
-Read the full article [here][https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from]
+Read the full article [here](https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from)
 
 ## What is this?
 
